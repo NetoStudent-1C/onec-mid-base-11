@@ -17,5 +17,6 @@
   <content>CommonModule.СозданиеНаОснованииПовтИсп</content>
   <content>CommonModule.ЗаполнениеОбъектов</content>
   <content>CommonModule.ЗаполнениеОбъектовПереопределяемый</content>
+  <content>CommonModule.ДП_РаботаСФормами</content>
   <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
 </mdclass:Subsystem>
